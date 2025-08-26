@@ -1,4 +1,4 @@
-# Store-supplyer 
+# Store-supplier 
 Application web d'un magasin pouvant gérer un inventaire où des commandes sont fait a un fournisseur dès que les stocks tombent bas.
 
 ## Fonctionnalités prévues
